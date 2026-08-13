@@ -1,4 +1,4 @@
-# Flutter Multi-Tool App
+# Flutter Multi Tool App
 
 A multi page Flutter application that combines three smaller apps I created into one project. The app uses navigation to let users switch between a to-do list, counter, and BMI calculator from one interface.
 
