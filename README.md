@@ -58,7 +58,20 @@ flutter run -d chrome
 
 ## Screenshots
 
-Screenshots of the To-Do List, Counter, and BMI Calculator will be added here.
+<img width="1917" height="1016" alt="b1" src="https://github.com/user-attachments/assets/d688855e-bd1c-4763-9a3b-ba8e83ac98b5" />
+<img width="1917" height="607" alt="b2" src="https://github.com/user-attachments/assets/e9915b03-0487-4c43-9547-1069cb113993" />
+<img width="1917" height="1012" alt="b3" src="https://github.com/user-attachments/assets/1cf61f6b-60bd-4e92-9094-85fc489da764" />
+<img width="1917" height="700" alt="b4" src="https://github.com/user-attachments/assets/2473068b-8f57-44ec-8e4a-ba94105b806c" />
+<img width="1917" height="657" alt="b5" src="https://github.com/user-attachments/assets/d0c82104-d216-4ac7-b2cb-3e74f1a7fbec" />
+
+<img width="1917" height="1015" alt="c1" src="https://github.com/user-attachments/assets/57093218-4576-490e-b775-f59f98641c1e" />
+<img width="1917" height="1016" alt="c2" src="https://github.com/user-attachments/assets/59eb9ad2-8e86-47e1-879d-433b2fe847e7" />
+<img width="1917" height="1017" alt="c3" src="https://github.com/user-attachments/assets/f9f240e3-cdef-4fe0-9e3b-46e9fcbeb604" />
+
+<img width="1917" height="855" alt="d1" src="https://github.com/user-attachments/assets/0d91521f-f4fd-4f27-9d19-a3bc061c4465" />
+<img width="1917" height="805" alt="d2" src="https://github.com/user-attachments/assets/e8390a41-71a1-4e0c-81f6-3969f7894c15" />
+<img width="1917" height="812" alt="d3" src="https://github.com/user-attachments/assets/6478f4f2-4d2a-41bb-a067-b124226a41c6" />
+
 
 ## What I Learned
 
